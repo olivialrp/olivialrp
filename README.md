@@ -6,7 +6,7 @@
 
  I see coding as an instrument to solve problems and create solutions for everyday life.
  
- I look forward to collaborate on web development projects and data analysis projects.
+ I look forward to collaborate on web development projects and data analysis projects. Feel free to contact me.
 
 <!---
 olivialrp/olivialrp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

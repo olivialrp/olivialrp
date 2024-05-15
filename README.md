@@ -2,7 +2,7 @@
  
  Everything about technology has my focused interest. To learn anything new about the web development, AI, ML and big data realms.
  
- I’m currently amplifying my skills on full stack development. 
+ Currently amplifying my skills on full stack development. 
 
  I see coding as an instrument to solve problems and create solutions for everyday life.
  

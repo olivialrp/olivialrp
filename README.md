@@ -1,4 +1,4 @@
- Hi. I’m Olivia, a software developer from Brazil. My major knowledge is on Python, C++, JavaScript, Java and SQL.
+ Hi. I’m Olivia, a software developer from Brazil. My major knowledge is on Python, C++, Java and SQL.
  
  Everything about technology has my focused interest. To learn anything new about the web development, AI, ML and big data realms.
  

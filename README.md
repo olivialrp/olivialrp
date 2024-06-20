@@ -4,7 +4,7 @@
 
  I see coding as an instrument to solve problems and create solutions for everyday life.
  
- Looking forward to collaborate on backend and data analysis projects.
+ Looking forward to collaborate on backend and data science projects.
 
 <!---
 olivialrp/olivialrp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
